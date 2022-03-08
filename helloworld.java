@@ -1,4 +1,3 @@
-//welocme
 //this pgm will print sample msg
 
 class Simple{  
